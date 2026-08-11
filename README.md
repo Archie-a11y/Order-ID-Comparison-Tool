@@ -36,7 +36,8 @@ Select your preferred user interface language (English, Chinese, or Malay) and t
 
 ### 📍 Step 2: Upload Files & Select Target Worksheets
 Load your master order file (Orders File) and the income workbook. Once the income file is uploaded, the sheet names will populate in the dropdown menu.
-<img width="437" height="107" alt="image" src="https://github.com/user-attachments/assets/8eb4aebd-5017-40a9-83d4-bdf21bb00254" />
+
+<img width="480" height="353" alt="image" src="https://github.com/user-attachments/assets/3fc70bc2-1b90-4613-b82b-f5bb6341371c" />
 
 
 ### 📍 Step 3: Match Configuration
