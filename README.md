@@ -84,8 +84,3 @@ View the live performance statistics displaying total orders processed, match pe
    php -S localhost:8000
    ```
    Open `http://localhost:8000` in your web browser.
-
----
-
-## 📄 License
-This project is open-source software licensed under the [MIT License](LICENSE).
